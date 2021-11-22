@@ -1,5 +1,5 @@
 ### Happy coding!👋
-{:.center}
+
 ![cardinal]
 ![Alt Text](https://media.giphy.com/media/yUSO0MUNfM8dyVGL8K/giphy.gif) 
 
