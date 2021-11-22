@@ -1,5 +1,5 @@
 ### Happy coding!👋
-![Alt Text](https://cdn.dribbble.com/users/906441/screenshots/7075035/media/d4a404fa0d4902dee969cbec37325eaa.gif height="200")
+![Alt Text](https://cdn.dribbble.com/users/906441/screenshots/7075035/media/d4a404fa0d4902dee969cbec37325eaa.gif  width="400" height="790")
 
 
 <!--
