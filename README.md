@@ -1,11 +1,8 @@
 ### Happy coding!👋
 
-![cardinal]
+
 ![Alt Text](https://media.giphy.com/media/yUSO0MUNfM8dyVGL8K/giphy.gif) 
 
-.center {
-  text-align: center;
-}
 
 
 <!--
