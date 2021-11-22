@@ -1,5 +1,11 @@
-<center> ### Happy coding!👋 </center>
-<center> ![Alt Text](https://media.giphy.com/media/yUSO0MUNfM8dyVGL8K/giphy.gif) </center>
+### Happy coding!👋
+{:.center}
+![cardinal]
+![Alt Text](https://media.giphy.com/media/yUSO0MUNfM8dyVGL8K/giphy.gif) 
+
+.center {
+  text-align: center;
+}
 
 
 <!--
